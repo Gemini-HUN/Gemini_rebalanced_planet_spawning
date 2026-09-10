@@ -12,14 +12,14 @@ I'm rewrote the spawning weight for modded planets to get chance to appear
 * chanceTerrestrialHasRings from 0.1 to 0.5
 * numPlanetsMax from 5 to 10
 * numPlanetsMin from 1 to 5
-* weightArtDirected 5
-* weightAsteroidBelt 400
-* weightBarren 1000
-* weightGasGiant 300
-* weightTechLevelCiv 10
-* weightTechLevelCreature 100
-* weightTechLevelEmpire 50
-* weightTechLevelTribe 10
-* weightTerrestrial1 300
-* weightTerrestrial2 3
-* weightTerrestrial3 1
+* weightArtDirected from 5 to 20
+* weightAsteroidBelt from 400 to 20
+* weightBarren from 1000 to 20
+* weightGasGiant from 300 to 20
+* weightTechLevelCiv from 10 to 20
+* weightTechLevelCreature from 100 to 20
+* weightTechLevelEmpire from 50 to 20
+* weightTechLevelTribe from 10 to 20
+* weightTerrestrial1 from 300 to 20
+* weightTerrestrial2 from 3 to 20
+* weightTerrestrial3 from 1 to 20
