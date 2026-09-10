@@ -23,3 +23,5 @@ I'm rewrote the spawning weight for modded planets to get chance to appear
 * weightTerrestrial1 from 300 to 20
 * weightTerrestrial2 from 3 to 20
 * weightTerrestrial3 from 1 to 20
+
+**A galaxy reset is recommended before using this mod.**
