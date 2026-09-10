@@ -1,0 +1,51 @@
+int32 TScoreCivPlanet 3
+int32 TScoreColonyPlanet 3
+int32 TScoreEmpireHomeWorld 3
+int32 TScoreGrobPlanet 0
+int32 TScoreTribePlanet 3
+float chanceAdditionalPlanetsAreSpaceTech 0.5
+float chanceGasGiantHasMoon 0.5
+float chanceGasGiantHasRings 0.5
+float chanceStarIsHomeStar 0.5
+float chanceTerrestrialHasMoon 0.5
+float chanceTerrestrialHasRings 0.5
+float desireToGrowInfluence 0.001
+float empireLinesMaxAngle 90
+float empireLinesMaxDetour 1.5
+int32s empireSizeWeights
+	0
+	20
+	50
+	100
+	120
+	120
+	100
+	30
+	15
+	10
+	5
+	5
+	4
+	3
+	2
+	1
+end
+colorRGB grobColor (0.2, 0.2, 0.2)
+int32 grobEmpireSize 2400
+float grobOnlyRadius 100
+key grobSpecies creature_editorModel~!Grox~.crt
+float grobStarsSpreadRadius 105
+int32 numPlanetsMax 10
+int32 numPlanetsMin 5
+int32 percentChanceCivPlanetIsGonnaDoTransitionMiniGame 0
+int32 weightArtDirected 20
+int32 weightAsteroidBelt 20
+int32 weightBarren 20
+int32 weightGasGiant 20
+int32 weightTechLevelCiv 20
+int32 weightTechLevelCreature 20
+int32 weightTechLevelEmpire 20
+int32 weightTechLevelTribe 20
+int32 weightTerrestrial1 20
+int32 weightTerrestrial2 20
+int32 weightTerrestrial3 20
