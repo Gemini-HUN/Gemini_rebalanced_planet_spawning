@@ -1,6 +1,8 @@
 # Gemini_rebalanced_planet_spawning
 ## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Gemini_rebalanced_planet_spawning?style=flat-square&color=d81b60&logo=github)
 I'm rewrote the spawning weight for modded planets to get chance to appear
+## Recommended
+* [Spore-LongerStarPlanetListUI](https://github.com/emd4600/Spore-LongerStarPlanetListUI)
 ### What changed
 * TScoreColonyPlanet from 2 to 3
 * TScoreTribePlanet from 2 to 3
