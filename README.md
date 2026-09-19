@@ -18,10 +18,10 @@ I'm rewrote the spawning weight for modded planets to get chance to appear
 * weightAsteroidBelt from 400 to 20
 * weightBarren from 1000 to 20
 * weightGasGiant from 300 to 20
-* weightTechLevelCiv from 10 to 20
-* weightTechLevelCreature from 100 to 20
-* weightTechLevelEmpire from 50 to 20
-* weightTechLevelTribe from 10 to 20
+* weightTechLevelCiv from 10 to 15
+* weightTechLevelCreature from 100 to 25
+* weightTechLevelEmpire from 50 to 25
+* weightTechLevelTribe from 10 to 15
 * weightTerrestrial1 from 300 to 20
 * weightTerrestrial2 from 3 to 20
 * weightTerrestrial3 from 1 to 20
