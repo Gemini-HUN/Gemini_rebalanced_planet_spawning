@@ -6,17 +6,15 @@ I'm rewrote the spawning weight for modded planets to get chance to appear
 ### What changed
 * TScoreColonyPlanet from 2 to 3
 * TScoreTribePlanet from 2 to 3
-* chanceAdditionalPlanetsAreSpaceTech from 0.3 to 0.5
 * chanceGasGiantHasMoon from 0.6 to 0.5
 * chanceGasGiantHasRings from 0.8 to 0.5
-* chanceStarIsHomeStar from 0.15 to 0.5
 * chanceTerrestrialHasMoon from 0.01 to 0.5
 * chanceTerrestrialHasRings from 0.1 to 0.5
 * numPlanetsMax from 5 to 10
 * numPlanetsMin from 1 to 5
 * weightArtDirected from 5 to 20
 * weightAsteroidBelt from 400 to 20
-* weightBarren from 1000 to 20
+* weightBarren from 1000 to 15
 * weightGasGiant from 300 to 20
 * weightTechLevelCiv from 10 to 15
 * weightTechLevelCreature from 100 to 25
